@@ -55,7 +55,6 @@ An AI-powered, bilingual healthcare web application designed to provide **sympto
 
 ### 🔹 Backend Setup
 
-```bash
 cd backend
 pip install -r requirements.txt
 python main.py
@@ -68,16 +67,16 @@ http://localhost:8000/docs
 
 ---
 
-### 🔹 Frontend Setup
+## 🔹 Frontend Setup
 
-```bash
 cd frontend
 npm install
 npm start
 
 ---
-Author
 
-Nensi Chavda 
-Computer Engineering Student
-LinkedIn: https://www.linkedin.com/in/nensi-chavda-b7baa3253/
+### Author
+
+- Nensi Chavda 
+- Computer Engineering Student
+- LinkedIn: https://www.linkedin.com/in/nensi-chavda-b7baa3253/

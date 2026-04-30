@@ -37,7 +37,6 @@ An AI-powered, bilingual healthcare web application designed to provide **sympto
 
 ### 🎤 Voice Interaction
 - Voice input (Speech Recognition)  
-- Voice output (Speech Synthesis)  
 - Supports English & Hindi  
 
 ---

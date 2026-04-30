@@ -55,9 +55,9 @@ An AI-powered, bilingual healthcare web application designed to provide **sympto
 
 ### 🔹 Backend Setup
 
-cd backend
-pip install -r requirements.txt
-python main.py
+- cd backend
+- pip install -r requirements.txt
+- python main.py
 
 Backend will run at:
 http://localhost:8000
@@ -69,9 +69,9 @@ http://localhost:8000/docs
 
 ## 🔹 Frontend Setup
 
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 ---
 

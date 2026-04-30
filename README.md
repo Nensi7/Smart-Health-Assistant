@@ -1,4 +1,4 @@
-# 🏥 Smart Health Assistant
+# 🏨 Smart Health Assistant
 
 An AI-powered, bilingual healthcare web application designed to provide **symptom assessment, emergency detection, appointment booking, and healthcare discovery** in a safe and user-friendly manner.
 

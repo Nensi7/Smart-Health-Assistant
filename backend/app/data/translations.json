@@ -1,0 +1,92 @@
+{
+  "translations": {
+    "app_name": {
+      "en": "Smart Health Assistant",
+      "hi": "स्मार्ट स्वास्थ्य सहायक"
+    },
+    "welcome": {
+      "en": "Welcome to Smart Health Assistant",
+      "hi": "स्मार्ट स्वास्थ्य सहायक में आपका स्वागत है"
+    },
+    "select_language": {
+      "en": "Select Language",
+      "hi": "भाषा चुनें"
+    },
+    "english": {
+      "en": "English",
+      "hi": "अंग्रेजी"
+    },
+    "hindi": {
+      "en": "Hindi",
+      "hi": "हिंदी"
+    },
+    "describe_symptoms": {
+      "en": "Describe your symptoms",
+      "hi": "अपने लक्षणों का वर्णन करें"
+    },
+    "enter_age": {
+      "en": "Enter your age",
+      "hi": "अपनी उम्र दर्ज करें"
+    },
+    "send": {
+      "en": "Send",
+      "hi": "भेजें"
+    },
+    "call_108": {
+      "en": "CALL 108",
+      "hi": "108 पर कॉल करें"
+    },
+    "emergency": {
+      "en": "EMERGENCY",
+      "hi": "आपातकाल"
+    },
+    "mild": {
+      "en": "Mild",
+      "hi": "हल्का"
+    },
+    "moderate": {
+      "en": "Moderate",
+      "hi": "मध्यम"
+    },
+    "severe": {
+      "en": "Severe",
+      "hi": "गंभीर"
+    },
+    "medical_disclaimer": {
+      "en": "⚠️ MEDICAL DISCLAIMER: This is NOT medical advice. This app provides EDUCATIONAL information only. Always consult qualified healthcare professionals for medical decisions. For emergencies, call 108.",
+      "hi": "⚠️ चिकित्सा अस्वीकरण: यह चिकित्सा सलाह नहीं है। यह ऐप केवल शैक्षणिक जानकारी प्रदान करता है। चिकित्सा संबंधी निर्णयों के लिए हमेशा योग्य स्वास्थ्य पेशेवरों से परामर्श लें। आपातकाल के लिए 108 पर कॉल करें।"
+    },
+    "home_care": {
+      "en": "Home Care",
+      "hi": "घरेलू देखभाल"
+    },
+    "see_doctor": {
+      "en": "See a Doctor",
+      "hi": "डॉक्टर को देखें"
+    },
+    "find_hospitals": {
+      "en": "Find Hospitals",
+      "hi": "अस्पताल खोजें"
+    },
+    "settings": {
+      "en": "Settings",
+      "hi": "सेटिंग्स"
+    },
+    "logout": {
+      "en": "Logout",
+      "hi": "लॉगआउट"
+    },
+    "history": {
+      "en": "History",
+      "hi": "इतिहास"
+    },
+    "feedback": {
+      "en": "Feedback",
+      "hi": "प्रतिक्रिया"
+    },
+    "health_tips": {
+      "en": "Health Tips",
+      "hi": "स्वास्थ्य सुझाव"
+    }
+  }
+}

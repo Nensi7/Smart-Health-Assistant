@@ -1,0 +1,240 @@
+{
+  "symptoms": [
+    {
+      "id": "fever_001",
+      "name": "Fever",
+      "hindi_name": "बुखार",
+      "aliases": ["high temperature", "pyrexia", "elevated body temperature"],
+      "base_severity": 3,
+      "typical_duration": "3-7 days",
+      "causes": [
+        "Common cold or flu",
+        "Infection (bacterial or viral)",
+        "Inflammation",
+        "Immune system response"
+      ],
+      "home_remedies": [
+        "Rest and sleep",
+        "Stay hydrated (water, warm tea)",
+        "Take warm water (if not allergic) and avoid milk items",
+        "Cool compress on forehead",
+        "Avoid heavy clothes"
+      ],
+      "when_to_see_doctor": "If fever persists more than 3 days, or if temperature exceeds 103°F (39.4°C), or if accompanied by severe symptoms",
+      "serious_signs": [
+        "Temperature above 105°F (40.5°C)",
+        "Fever lasting more than 5 days",
+        "Difficulty breathing",
+        "Severe headache",
+        "Stiff neck"
+      ],
+      "complications_if_ignored": [
+        "Febrile seizures (in children)",
+        "Dehydration",
+        "Organ damage (in extreme cases)"
+      ],
+      "associated_symptoms": [
+        "headache",
+        "body_ache",
+        "chills",
+        "fatigue"
+      ],
+      "age_considerations": {
+        "infants": "More risky - seek doctor immediately",
+        "children": "Closely monitor - watch for complications",
+        "adults": "Usually manageable at home",
+        "elderly": "Higher risk - see doctor if high"
+      },
+      "created_date": "2024-01-01"
+    },
+    {
+      "id": "headache_001",
+      "name": "Headache",
+      "hindi_name": "सिरदर्द",
+      "aliases": ["head pain", "migraine", "tension headache"],
+      "base_severity": 2,
+      "typical_duration": "1-7 days",
+      "causes": [
+        "Stress and tension",
+        "Dehydration",
+        "Lack of sleep",
+        "Caffeine withdrawal",
+        "Eye strain",
+        "Sinus problems"
+      ],
+      "home_remedies": [
+        "Rest in a dark, quiet room",
+        "Stay hydrated (drink water)",
+        "Take paracetamol or ibuprofen",
+        "Apply warm compress to neck",
+        "Massage temples gently",
+        "Avoid bright lights"
+      ],
+      "when_to_see_doctor": "If headache is severe, sudden, accompanied by other symptoms, or lasts more than 3 days",
+      "serious_signs": [
+        "Worst headache of your life",
+        "Sudden, severe headache",
+        "Headache with fever and stiff neck",
+        "Vision changes",
+        "Difficulty speaking"
+      ],
+      "complications_if_ignored": [
+        "Migraines can worsen",
+        "Tension headaches can become chronic",
+        "May indicate serious underlying condition"
+      ],
+      "associated_symptoms": [
+        "fever",
+        "nausea",
+        "sensitivity_to_light",
+        "fatigue"
+      ],
+      "age_considerations": {
+        "children": "Often stress or dehydration related",
+        "adults": "Common - usually manageable",
+        "elderly": "May indicate medication side effects"
+      },
+      "created_date": "2024-01-01"
+    },
+    {
+      "id": "cough_001",
+      "name": "Cough",
+      "hindi_name": "खांसी",
+      "aliases": ["dry cough", "wet cough", "productive cough"],
+      "base_severity": 2,
+      "typical_duration": "1-4 weeks",
+      "causes": [
+        "Common cold",
+        "Flu (influenza)",
+        "Bronchitis",
+        "Asthma",
+        "Allergies",
+        "Acid reflux"
+      ],
+      "home_remedies": [
+        "Stay hydrated",
+        "Use honey and lemon in warm water",
+        "Use cough syrup if needed",
+        "Use humidifier",
+        "Avoid irritants (smoke, pollution)",
+        "Rest adequately"
+      ],
+      "when_to_see_doctor": "If cough persists more than 2 weeks, produces blood, or worsens",
+      "serious_signs": [
+        "Coughing blood",
+        "Difficulty breathing",
+        "Chest pain while coughing",
+        "Weight loss",
+        "Fever lasting more than 1 week with cough"
+      ],
+      "complications_if_ignored": [
+        "Pneumonia",
+        "Bronchitis becoming chronic",
+        "Spread of infection"
+      ],
+      "associated_symptoms": [
+        "sore_throat",
+        "fever",
+        "congestion",
+        "fatigue"
+      ],
+      "created_date": "2024-01-01"
+    },
+    {
+      "id": "sore_throat_001",
+      "name": "Sore Throat",
+      "hindi_name": "गले में दर्द",
+      "aliases": ["throat pain", "pharyngitis"],
+      "base_severity": 2,
+      "typical_duration": "3-7 days",
+      "causes": [
+        "Viral infection (cold, flu)",
+        "Bacterial infection (strep throat)",
+        "Allergies",
+        "Dry air",
+        "Smoking"
+      ],
+      "home_remedies": [
+        "Gargle with salt water",
+        "Drink warm fluids",
+        "Use lozenges",
+        "Take honey",
+        "Rest voice",
+        "Use humidifier"
+      ],
+      "when_to_see_doctor": "If accompanied by high fever, difficulty swallowing, or lasts more than 1 week",
+      "serious_signs": [
+        "High fever (above 103°F)",
+        "Difficulty swallowing",
+        "Drooling",
+        "Neck stiffness",
+        "Rash"
+      ],
+      "created_date": "2024-01-01"
+    },
+    {
+      "id": "nausea_001",
+      "name": "Nausea",
+      "hindi_name": "मतली",
+      "aliases": ["feeling sick", "queasiness"],
+      "base_severity": 2,
+      "typical_duration": "1-3 days",
+      "causes": [
+        "Food poisoning",
+        "Virus",
+        "Medication side effect",
+        "Pregnancy",
+        "Anxiety",
+        "Motion sickness"
+      ],
+      "home_remedies": [
+        "Eat small, frequent meals",
+        "Avoid greasy foods",
+        "Drink ginger tea",
+        "Rest",
+        "Avoid strong smells",
+        "Sip water slowly"
+      ],
+      "when_to_see_doctor": "If accompanied by severe vomiting, unable to keep fluids down, or lasts more than 3 days",
+      "serious_signs": [
+        "Severe vomiting",
+        "Dehydration signs",
+        "Abdominal pain",
+        "Blood in vomit"
+      ],
+      "created_date": "2024-01-01"
+    },
+    {
+      "id": "body_ache_001",
+      "name": "Body Ache",
+      "hindi_name": "शरीर में दर्द",
+      "aliases": ["muscle pain", "myalgia", "generalised pain"],
+      "base_severity": 2,
+      "typical_duration": "2-7 days",
+      "causes": [
+        "Viral infection (flu)",
+        "Physical exertion",
+        "Stress",
+        "Sleep deprivation",
+        "Dehydration",
+        "Inflammatory condition"
+      ],
+      "home_remedies": [
+        "Rest",
+        "Apply warm compress",
+        "Take pain reliever",
+        "Stay hydrated",
+        "Gentle stretching",
+        "Hot water bath"
+      ],
+      "when_to_see_doctor": "If severe, accompanied by other symptoms, or lasts more than 5 days",
+      "serious_signs": [
+        "Severe pain limiting movement",
+        "Accompanied by high fever",
+        "Swelling",
+        "Redness"
+      ],
+      "created_date": "2024-01-01"
+    }
+  ]
+}

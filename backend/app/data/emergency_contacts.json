@@ -1,0 +1,33 @@
+{
+  "INDIA": {
+    "country": "INDIA",
+    "country_code": "IN",
+    "emergency_number": "112",
+    "ambulance": "108",
+    "police": "100",
+    "fire": "101",
+    "women_helpline": "1091",
+    "child_helpline": "1098",
+    "medical_emergency": "108",
+    "nhs_alternate": "011-23978046",
+    "covid_helpline": "1075"
+  },
+  "USA": {
+    "country": "USA",
+    "country_code": "US",
+    "emergency_number": "911",
+    "ambulance": "911",
+    "police": "911",
+    "fire": "911",
+    "poison_control": "1-800-222-1222"
+  },
+  "UK": {
+    "country": "UK",
+    "country_code": "GB",
+    "emergency_number": "999",
+    "ambulance": "999",
+    "police": "999",
+    "fire": "999",
+    "nhs": "111"
+  }
+}

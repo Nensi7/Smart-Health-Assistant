@@ -1,0 +1,26 @@
+{
+  "tips": [
+    {
+      "id": "tip_001",
+      "title_en": "How to Prevent Common Cold",
+      "title_hi": "सर्दी से बचने के तरीके",
+      "content_en": "The common cold is caused by viruses. Here are evidence-based ways to reduce your risk:\n\n1. **Wash Hands Frequently**: Wash hands with soap for 20+ seconds, especially after touching shared surfaces.\n\n2. **Avoid Touching Face**: The virus enters through eyes, nose, and mouth.\n\n3. **Maintain Distance from Sick People**: Stay at least 6 feet away from people with cold symptoms.\n\n4. **Keep Environment Clean**: Regularly disinfect frequently touched surfaces.\n\n5. **Boost Immunity**: \n   - Eat vitamin C rich foods (citrus, berries)\n   - Get adequate sleep (7-9 hours)\n   - Exercise regularly\n   - Manage stress\n\n6. **Stay Hydrated**: Drink plenty of water daily.\n\n7. **Use Masks**: If you're around sick people, wear a mask.\n\nNote: There's no cure for common cold, only symptom management. Most colds resolve in 7-10 days.",
+      "content_hi": "सर्दी वायरस के कारण होती है। यहाँ इसके जोखिम को कम करने के तरीके दिए गए हैं:\n\n1. **हाथ धोएं**: साबुन से 20+ सेकंड के लिए हाथ धोएं।\n\n2. **चेहरा न छुएं**: वायरस आँखों, नाक और मुँह से प्रवेश करता है।\n\n3. **बीमार लोगों से दूरी बनाएं**: कम से कम 6 फीट की दूरी रखें।\n\n4. **परिवेश को साफ रखें**: सर्फेसेस को नियमित रूप से कीटाणुनाशक करें।\n\n5. **प्रतिरक्षा बढ़ाएं**: विटामिन C खाद्य पदार्थ खाएं, पर्याप्त नींद लें।\n\n6. **हाइड्रेटेड रहें**: रोज़ाना भरपूर पानी पिएं।\n\n7. **मास्क पहनें**: बीमार लोगों के पास मास्क पहनें।",
+      "category": "prevention",
+      "tags": ["cold", "flu", "prevention", "immunity"],
+      "read_time_minutes": 5,
+      "created_date": "2024-01-01"
+    },
+    {
+      "id": "tip_002",
+      "title_en": "When to See a Doctor",
+      "title_hi": "डॉक्टर के पास कब जाएं",
+      "content_en": "It's important to know when self-care is sufficient and when professional medical help is needed:\n\n**See a Doctor Immediately (Within Hours):**\n- Severe chest pain\n- Difficulty breathing\n- Unconsciousness\n- Severe bleeding\n- Stroke symptoms\n- Severe allergic reaction\n\n**See a Doctor Soon (Within 24 Hours):**\n- High fever (above 103°F / 39.4°C) lasting more than 1 day\n- Severe headache with neck stiffness\n- Persistent severe pain\n- Symptoms worsening despite home care\n- Unusual rash\n\n**Schedule an Appointment (Within 1 Week):**\n- Cough lasting more than 2 weeks\n- Persistent fever for 3+ days\n- Symptoms not improving after 5-7 days\n- Recurring symptoms\n- Concerned about any symptom\n\n**Remember**: When in doubt, it's better to consult a healthcare professional. They can properly evaluate and diagnose your condition.",
+      "content_hi": "यह जानना महत्वपूर्ण है कि कब आत्म-देखभाल पर्याप्त है और कब पेशेवर चिकित्सा सहायता की आवश्यकता है।\n\n**तुरंत डॉक्टर के पास जाएं:**\n- गंभीर सीने में दर्द\n- सांस लेने में कठिनाई\n- बेहोशी\n- गंभीर रक्तस्राव\n\n**जल्द डॉक्टर के पास जाएं:**\n- उच्च बुखार (103°F से अधिक) 1 दिन से अधिक\n- गंभीर सिरदर्द\n- लगातार गंभीर दर्द\n\n**एक सप्ताह में नियुक्ति लें:**\n- 2 हफ्ते से अधिक खांसी\n- 3 दिन से अधिक बुखार\n- 5-7 दिन के बाद लक्षणों में सुधार न होना",
+      "category": "guidance",
+      "tags": ["when_to_see_doctor", "emergency", "healthcare"],
+      "read_time_minutes": 4,
+      "created_date": "2024-01-01"
+    }
+  ]
+}

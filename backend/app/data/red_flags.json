@@ -1,0 +1,141 @@
+{
+  "emergency_symptoms": [
+    {
+      "id": "chest_pain_001",
+      "keyword": "chest pain",
+      "hindi_keyword": "सीने में दर्द",
+      "severity": "EMERGENCY",
+      "priority": 1,
+      "description": "Chest discomfort or pain",
+      "action": "CALL 108 IMMEDIATELY",
+      "first_aid": [
+        "Stop any physical activity",
+        "Sit or lie down",
+        "Loosen tight clothing",
+        "Stay calm",
+        "Have someone stay with you"
+      ],
+      "why_urgent": "Can indicate heart attack or other life-threatening condition"
+    },
+    {
+      "id": "difficulty_breathing_001",
+      "keyword": "difficulty breathing",
+      "hindi_keyword": "सांस लेने में कठिनाई",
+      "severity": "EMERGENCY",
+      "priority": 1,
+      "description": "Shortness of breath, choking",
+      "action": "CALL 108 IMMEDIATELY",
+      "first_aid": [
+        "Sit upright",
+        "Loosen clothing",
+        "Get fresh air if possible",
+        "Stay calm (panic worsens breathing)",
+        "Call 108"
+      ],
+      "why_urgent": "Can indicate asthma attack, anaphylaxis, or other critical condition"
+    },
+    {
+      "id": "unconscious_001",
+      "keyword": "unconscious",
+      "hindi_keyword": "बेहोश",
+      "severity": "EMERGENCY",
+      "priority": 1,
+      "description": "Loss of consciousness, collapsed",
+      "action": "CALL 108 IMMEDIATELY",
+      "first_aid": [
+        "Check if breathing",
+        "Place in recovery position (on side)",
+        "Do not move neck/spine",
+        "Check pulse",
+        "Call 108 immediately"
+      ],
+      "why_urgent": "Loss of consciousness is life-threatening"
+    },
+    {
+      "id": "severe_bleeding_001",
+      "keyword": "severe bleeding",
+      "hindi_keyword": "गंभीर रक्तस्राव",
+      "severity": "EMERGENCY",
+      "priority": 1,
+      "description": "Uncontrolled or profuse bleeding",
+      "action": "CALL 108 IMMEDIATELY",
+      "first_aid": [
+        "Apply direct pressure with clean cloth",
+        "Elevate the area above heart if possible",
+        "Do not remove cloth - add more if bleeding",
+        "Apply tourniquet if arterial bleeding",
+        "Keep person calm and warm"
+      ],
+      "why_urgent": "Severe bleeding can lead to shock and death"
+    },
+    {
+      "id": "stroke_001",
+      "keyword": "stroke symptoms",
+      "hindi_keyword": "स्ट्रोक के लक्षण",
+      "severity": "EMERGENCY",
+      "priority": 1,
+      "description": "Facial drooping, arm weakness, speech difficulty",
+      "action": "CALL 108 IMMEDIATELY",
+      "first_aid": [
+        "Note time symptoms started",
+        "Do not give food or water",
+        "Place person on side if unconscious",
+        "Keep warm and calm",
+        "Call 108 immediately"
+      ],
+      "why_urgent": "Stroke requires immediate medical intervention - time-critical"
+    },
+    {
+      "id": "poisoning_001",
+      "keyword": "poisoning",
+      "hindi_keyword": "विषाक्तता",
+      "severity": "EMERGENCY",
+      "priority": 1,
+      "description": "Accidental or intentional poisoning",
+      "action": "CALL 108 IMMEDIATELY",
+      "first_aid": [
+        "Call poison control",
+        "Remove from poisoning source",
+        "Do not induce vomiting",
+        "Save container/substance info",
+        "Keep poison control info handy"
+      ],
+      "why_urgent": "Poison can damage organs and be fatal"
+    },
+    {
+      "id": "severe_allergic_001",
+      "keyword": "severe allergic reaction",
+      "hindi_keyword": "गंभीर एलर्जी प्रतिक्रिया",
+      "severity": "EMERGENCY",
+      "priority": 1,
+      "description": "Anaphylaxis, severe swelling, difficulty breathing",
+      "action": "CALL 108 IMMEDIATELY",
+      "first_aid": [
+        "Use epinephrine auto-injector if available",
+        "Lay person flat with legs elevated",
+        "Loosen tight clothing",
+        "Be prepared for CPR",
+        "Call 108"
+      ],
+      "why_urgent": "Anaphylaxis can be fatal if not treated immediately"
+    },
+    {
+      "id": "seizure_001",
+      "keyword": "seizure",
+      "hindi_keyword": "दौरा",
+      "severity": "EMERGENCY",
+      "priority": 1,
+      "description": "Uncontrolled muscle contractions",
+      "action": "CALL 108 IMMEDIATELY",
+      "first_aid": [
+        "Clear area of hazards",
+        "Place pillow under head",
+        "Turn on side if breathing",
+        "Do not restrain",
+        "Do not put anything in mouth",
+        "Time the seizure"
+      ],
+      "why_urgent": "Seizures can cause aspiration and brain damage"
+    }
+  ]
+}

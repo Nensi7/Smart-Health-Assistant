@@ -1,0 +1,106 @@
+{
+  "facilities": [
+    {
+      "id": "hosp_001",
+      "name": "AIIMS Delhi",
+      "type": "hospital",
+      "address": "Ansari Nagar, New Delhi",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "pincode": "110029",
+      "phone": "011-26588500",
+      "latitude": 28.5675,
+      "longitude": 77.2112,
+      "rating": 4.5,
+      "is_24x7": true,
+      "emergency_services": true,
+      "specialties": ["Cardiology", "Neurology", "Oncology", "Emergency"]
+    },
+    {
+      "id": "hosp_002",
+      "name": "Fortis Hospital",
+      "type": "hospital",
+      "address": "Sector B, Vasant Kunj",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "pincode": "110070",
+      "phone": "011-51112222",
+      "latitude": 28.5236,
+      "longitude": 77.1512,
+      "rating": 4.3,
+      "is_24x7": true,
+      "emergency_services": true,
+      "specialties": ["Cardiology", "Orthopedics", "Neurology"]
+    },
+    {
+      "id": "clinic_001",
+      "name": "City Health Clinic",
+      "type": "clinic",
+      "address": "Main Market, Saket",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "pincode": "110017",
+      "phone": "011-26560000",
+      "latitude": 28.5285,
+      "longitude": 77.2190,
+      "rating": 4.0,
+      "is_24x7": false,
+      "emergency_services": false,
+      "specialties": ["General Medicine", "Pediatrics"]
+    },
+    {
+      "id": "pharma_001",
+      "name": "MedPlus Pharmacy",
+      "type": "pharmacy",
+      "address": "Community Center, Malviya Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "pincode": "110017",
+      "phone": "011-26570000",
+      "latitude": 28.5350,
+      "longitude": 77.2100,
+      "rating": 4.2,
+      "is_24x7": false,
+      "emergency_services": false,
+      "specialties": []
+    }
+  ],
+  "telemedicine": [
+    {
+      "id": "tele_001",
+      "name": "Practo",
+      "description": "Online doctor consultations via video, audio, or chat",
+      "type": "video",
+      "specialties": ["General Medicine", "Dermatology", "Pediatrics", "Psychiatry"],
+      "languages": ["English", "Hindi"],
+      "availability": "24/7",
+      "price_range": "₹200-₹500",
+      "website": "https://www.practo.com",
+      "phone": "1800-3000-4444"
+    },
+    {
+      "id": "tele_002",
+      "name": "1mg",
+      "description": "Online consultations and medicine delivery",
+      "type": "chat",
+      "specialties": ["General Medicine", "Ayurveda", "Homeopathy"],
+      "languages": ["English", "Hindi"],
+      "availability": "24/7",
+      "price_range": "₹100-₹300",
+      "website": "https://www.1mg.com",
+      "phone": "1800-102-102-102"
+    },
+    {
+      "id": "tele_003",
+      "name": "Apollo 24|7",
+      "description": "Apollo Hospitals online consultation platform",
+      "type": "video",
+      "specialties": ["Cardiology", "Neurology", "Orthopedics", "General Medicine"],
+      "languages": ["English", "Hindi"],
+      "availability": "24/7",
+      "price_range": "₹300-₹1000",
+      "website": "https://www.apollo247.com",
+      "phone": "1860-500-0101"
+    }
+  ]
+}

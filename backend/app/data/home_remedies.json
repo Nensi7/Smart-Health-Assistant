@@ -1,0 +1,87 @@
+{
+  "remedies": [
+    {
+      "id": "remedy_001",
+      "name": "Ginger and Honey Tea",
+      "hindi_name": "अदरक और शहद की चाय",
+      "good_for": ["cough", "sore_throat", "nausea", "cold"],
+      "ingredients": [
+        "Fresh ginger (1 inch piece)",
+        "Honey (1-2 teaspoons)",
+        "Lemon juice (optional)",
+        "Hot water (1 cup)"
+      ],
+      "instructions": [
+        "Boil water",
+        "Add ginger slices",
+        "Let it steep for 5 minutes",
+        "Strain the tea",
+        "Add honey and lemon",
+        "Drink while warm"
+      ],
+      "frequency": "2-3 times daily",
+      "duration": "5-7 days",
+      "cautions": [
+        "Don't use if allergic to ginger",
+        "Not for infants",
+        "May cause heartburn in some people"
+      ],
+      "effectiveness": "Soothing, anti-inflammatory",
+      "when_to_stop": "If symptoms worsen or no improvement after 3 days"
+    },
+    {
+      "id": "remedy_002",
+      "name": "Salt Water Gargle",
+      "hindi_name": "नमक के पानी से गरारे करना",
+      "good_for": ["sore_throat", "mouth_ulcers"],
+      "ingredients": [
+        "Salt (1/2 teaspoon)",
+        "Warm water (1 cup)",
+        "Optional: turmeric (pinch)"
+      ],
+      "instructions": [
+        "Boil water and let it cool slightly",
+        "Add salt to warm water",
+        "Stir well until salt dissolves",
+        "Gargle for 30 seconds",
+        "Spit out - don't swallow",
+        "Repeat 3-4 times"
+      ],
+      "frequency": "4-5 times daily",
+      "duration": "3-5 days",
+      "cautions": [
+        "Don't swallow the salt water",
+        "Use warm water, not hot"
+      ],
+      "effectiveness": "Kills bacteria, reduces inflammation",
+      "when_to_stop": "If no improvement after 3 days, see doctor"
+    },
+    {
+      "id": "remedy_003",
+      "name": "Rest and Hydration",
+      "hindi_name": "आराम और जलयोजन",
+      "good_for": ["fever", "cold", "flu", "body_ache"],
+      "ingredients": [
+        "Water",
+        "Herbal tea (optional)",
+        "Coconut water (optional)",
+        "Warm milk (optional)"
+      ],
+      "instructions": [
+        "Drink at least 8-10 glasses of water daily",
+        "Drink warm fluids (tea, soup, broth)",
+        "Avoid caffeine and alcohol",
+        "Sleep 7-9 hours",
+        "Rest during the day"
+      ],
+      "frequency": "Continuous",
+      "duration": "Until symptoms resolve",
+      "cautions": [
+        "Don't over-exert yourself",
+        "Avoid cold drinks if feverish"
+      ],
+      "effectiveness": "Helps immune system fight infection",
+      "when_to_stop": "Never - always maintain hydration"
+    }
+  ]
+}
